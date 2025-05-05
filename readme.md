@@ -81,6 +81,15 @@ Consegui montar essa estrutura do jeitinho que imaginei. Funcionando liso!
 
 ---
 
+### 🌐 Desafio 3: Construir e integrar o frontend
+
+- Utilizarei a v0 para me auxiliar na construção do frontend e deixar a abstração dos dados pronta para integrar com a API
+- Esse foi o desafio mais "tranquilo", já tenho uma experiência previa em utilizar a plataforma com outros 3 projetos pessoais
+- Consegui concluir o desenvolvimento do frontend com exatamente 10 perguntas para a v0
+- Depois disso foi apenas construir a camada de integração e linkar com a abstração que já estava pronta
+
+---
+
 ### ✅ Conclusão
 
 No fim das contas, esse projeto acabou sendo mais do que só um desafio técnico sobre a FURIA — virou um laboratório pra testar ideias diferentes de como construir uma experiência de conversa mais natural e inteligente, fugindo do clássico CRUD. Apliquei várias ideias diferentes de como utilizar algumas ferramentas e técnologias que nunca tinha pensado antes.
